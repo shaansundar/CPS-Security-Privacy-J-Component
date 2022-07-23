@@ -1,0 +1,8 @@
+[
+  { "id": 1, "userStatus": "IN" },
+  { "id": 2, "userStatus": "OUT" },
+  { "id": 3, "userStatus": "IN" },
+  { "id": 4, "userStatus": "OUT" },
+  { "id": 5, "userStatus": "IN" },
+  { "id": 6, "userStatus": "OUT" }
+]
